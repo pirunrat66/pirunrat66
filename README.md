@@ -47,6 +47,3 @@
 📧 Email: pirunratp66@nu.ac.th  
 📍 Location: Phitsanulok, Thailand  
 🔗 GitHub: https://github.com/pirunrat66
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
