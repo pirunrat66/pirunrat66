@@ -1,9 +1,6 @@
 # Hi, I'm Pirunrat 👋
 
-🎓 **B.Sc. Data Science Student, Naresuan University**  
-📌 **Cooperative Education Candidate**  
-💡 Interested in **Data Analysis, Machine Learning, AI, Smart Grid, and Data Visualization**
-
+🎓 Data Science Student | Naresuan University
 ---
 
 ## Skills
