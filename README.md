@@ -23,6 +23,8 @@
 | Data Science and Applications — Thai MOOC | Completed online training in data science, data processing, and applied analytics. | <img src="thai-mooc-certificate.png" width="250"> |
 | Developers Student Camp — Naresuan University | Participated in a developer camp focused on programming, technology, and collaborative learning. | <img src="developer-camp.jpg" width="250"> |
 | LINE Chatbot Project Activity — Sci Academy Expo 2025 | Supported a student chatbot project presentation and team-based technology activity. | <img src="line-chatbot-activity.jpg" width="250"> |
+| Data Visualization for Insightful Communication | Completed training in data visualization and communication for insights. | <img src="66313715_1.png" width="250"> |
+| Practical Statistical Tools for the Workplace | Completed training in practical statistical tools for workplace applications. | <img src="66313715.png" width="250"> |
 
 - Additional academic and technology-related activities
 
